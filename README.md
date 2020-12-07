@@ -1,15 +1,15 @@
 # tailblocks
+
 ### 🎉 Ready-to-use Tailwind CSS blocks
+
 ##### Features
 
-* 15 different categories (ecommerce, blog, pricing and more...)
-* Responsive
-* Dark/light mode
-* Color variations
+- 15 different categories (ecommerce, blog, pricing and more...)
+- Responsive
+- Dark/light mode
+- Color variations
 
 ## How to use this project
-
-[![tailblocks](https://github.com/mertjf/tailblocks/blob/master/public/preview.gif)](https://mertjf.github.io/tailblocks)
 
 This project provides multiple templates built using [Tailwind
 CSS](https://tailwindcss.com/) that you can use in your own projects. This
@@ -25,7 +25,6 @@ To use the project:
 1. Click the "View Code" button
 1. Copy/paste into your project
 1. 🎉
-
 
 ## License
 
